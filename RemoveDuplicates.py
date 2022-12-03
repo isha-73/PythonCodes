@@ -1,4 +1,4 @@
-# Isha Bule UCE2021610
+
 # removing duplicates from list and append numbers
 list = [1, 1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 5, 5, 5, 5, 5, 5, 6]
 i = 0
