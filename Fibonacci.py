@@ -1,4 +1,4 @@
-# Isha Bule UCE2021610
+
 # Fibonacci series
 
 terms = int(input("Enter number of terms:"))
