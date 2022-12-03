@@ -1,4 +1,4 @@
-#Isha Bule UCE2021610
+
 # Simple Interest Calculation
 principle = float(input("Enter the principle amount "))
 rate = float(input("Enter the rate of interest in % "))
