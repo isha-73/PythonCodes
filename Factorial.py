@@ -1,4 +1,4 @@
-# Isha Bule UCE2021610
+
 # factorial of number
 num = 7
 factorial = 1
