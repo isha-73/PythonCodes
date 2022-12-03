@@ -1,4 +1,4 @@
-# Isha Bule UCE2021610
+
 # Pattern
 j = 0
 rows = int(input("Enter the number of rows-"))
