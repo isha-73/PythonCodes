@@ -1,4 +1,4 @@
-#Isha Bule UCE2021610
+
 # OOP in PYTHON implementation
 
 class Employee(object):
@@ -104,83 +104,3 @@ while choice != 6:
     else:  # default case: wrong input of choice
         print("Wrong input of choice")
 
-
-'''
-E:\PyCharm\venv\Scripts\python.exe E:/PyCharm/oopPy.py
-Enter the name of emplyee 1 Isha Bule
-Enter the post of emplyee 1 SWE
-Enter the salary of emplyee 1 8500000
-Enter the department of empl0yee 1 CS
-Enter the name of emplyee 2 Tilak Dave
-Enter the post of emplyee 2 CEO
-Enter the salary of emplyee 2 1200000000
-Enter the department of empl0yee 2 CS
-Enter the name of emplyee 3 Shravani B
-Enter the post of emplyee 3 SWE
-Enter the salary of emplyee 3 50000
-Enter the department of empl0yee 3 CS
-1   Isha Bule   CS   SWE   8500000
-2   Tilak Dave   CS   CEO   1200000000
-3   Shravani B   CS   SWE   50000
-MENU:
-1-ADD NEW EMPLOYEE
-2-DELETE AN EMPLOYEE
-4-UPDATE FIELDS OF EMPLOYEE
-5-SEARCH EMPLOYEE
-6-EXIT
-ENTER YOUR CHOICE: 1
-YOU HAVE CHOSEN: 1-ADD NEW EMPLOYEE
-Enter the name of new emplyeeSarthak Bule
-Enter the post of new emplyeeSWE
-Enter the salary of new employee8500
-Enter the department of employeeCS
-1   Isha Bule   CS   SWE   8500000
-2   Tilak Dave   CS   CEO   1200000000
-3   Shravani B   CS   SWE   50000
-4   Sarthak Bule   CS   SWE   8500
-MENU:
-1-ADD NEW EMPLOYEE
-2-DELETE AN EMPLOYEE
-4-UPDATE FIELDS OF EMPLOYEE
-5-SEARCH EMPLOYEE
-6-EXIT
-ENTER YOUR CHOICE: 2
-YOU HAVE CHOSEN: 2-DELETE AN EMPLOYEE
-Enter employee number, to delete it from list3
-1   Isha Bule   CS   SWE   8500000
-2   Tilak Dave   CS   CEO   1200000000
-4   Sarthak Bule   CS   SWE   8500
-MENU:
-1-ADD NEW EMPLOYEE
-2-DELETE AN EMPLOYEE
-4-UPDATE FIELDS OF EMPLOYEE
-5-SEARCH EMPLOYEE
-6-EXIT
-ENTER YOUR CHOICE: 4
-YOU HAVE CHOSEN: 4-UPDATE FIELDS OF EMPLOYEE
-Enter employee number, to update its data2
-Enter the updated name of employee D Tilak
-Enter the updated post Founder
-Enter the updated salary 520000000
-2   D Tilak   CS   Founder   520000000
-MENU:
-1-ADD NEW EMPLOYEE
-2-DELETE AN EMPLOYEE
-4-UPDATE FIELDS OF EMPLOYEE
-5-SEARCH EMPLOYEE
-6-EXIT
-ENTER YOUR CHOICE: 5
-YOU HAVE CHOSEN: 5-SEARCH EMPLOYEE
-Enter employee number, to search1
-1   Isha Bule   CS   SWE   8500000
-MENU:
-1-ADD NEW EMPLOYEE
-2-DELETE AN EMPLOYEE
-4-UPDATE FIELDS OF EMPLOYEE
-5-SEARCH EMPLOYEE
-6-EXIT
-ENTER YOUR CHOICE: 6
-YOU HAVE CHOSEN: 6-EXIT
-
-Process finished with exit code 0
-'''
