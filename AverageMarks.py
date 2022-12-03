@@ -1,4 +1,4 @@
-# Isha Bule UCE2021610
+
 # taking average of marks
 # taking marks
 maths = int(input("marks scored in maths "))
