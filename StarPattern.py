@@ -1,4 +1,4 @@
-# Isha Bule UCE2021610
+
 # pattern
 rows = int(input("Enter the number of rows "))
 for i in range(rows):
