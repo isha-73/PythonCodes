@@ -1,4 +1,4 @@
-# Isha Bule
+
 # Pascal Triangle using List in Python
 
 n = int(input("Enter the number of rows in pascal triangle "))
