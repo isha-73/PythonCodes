@@ -1,4 +1,4 @@
-# Isha Bule UCE2021610
+
 # check whether number is prime or not
 number = int(input("Enter any number "))
 if number > 1:
